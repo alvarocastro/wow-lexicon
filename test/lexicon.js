@@ -11,7 +11,7 @@ const dict = {
 
 test('Should throw error if no dictionary provided', t => {
 	t.throws(() => {
-		new Lexicon()
+		new Lexicon(); // eslint-disable-line no-new
 	}, Error);
 });
 
