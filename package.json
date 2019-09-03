@@ -1,0 +1,43 @@
+{
+  "name": "wow-lexicon",
+  "version": "0.0.1",
+  "description": "World of Warcraft languages translator",
+  "main": "index.js",
+  "bin": {
+    "wow-lexicon": "./cli.js"
+  },
+  "scripts": {
+    "translate": "node index.js",
+    "test": "nyc ava",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarocastro/wow-lexicon.git"
+  },
+  "keywords": [
+    "world of warcraft",
+    "warcraft",
+    "wow",
+    "lexicon",
+    "language",
+    "languages",
+    "dictionary",
+    "translator"
+  ],
+  "author": "Alvaro Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvarocastro/wow-lexicon/issues"
+  },
+  "homepage": "https://github.com/alvarocastro/wow-lexicon#readme",
+  "devDependencies": {
+    "ava": "^2.3.0",
+    "coveralls": "^3.0.6",
+    "nyc": "^14.1.1",
+    "xo": "^0.24.0"
+  },
+  "dependencies": {
+    "copy-case": "^1.0.0"
+  }
+}
