@@ -31,10 +31,10 @@
   },
   "homepage": "https://github.com/alvarocastro/wow-lexicon#readme",
   "devDependencies": {
-    "ava": "^2.3.0",
-    "coveralls": "^3.0.6",
-    "nyc": "^14.1.1",
-    "xo": "^0.24.0"
+    "ava": "2.3.0",
+    "coveralls": "3.0.6",
+    "nyc": "14.1.1",
+    "xo": "0.24.0"
   },
   "dependencies": {
     "copy-case": "^1.0.0"
