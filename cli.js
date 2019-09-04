@@ -1,8 +1,5 @@
 #!/usr/bin/env node
 
-// [Common] This is JavaScript!!
-// [Dwarvish] Helm we Gar-Mogoth!!
-
 const lexicon = require('.');
 
 const args = process.argv.slice(2);
