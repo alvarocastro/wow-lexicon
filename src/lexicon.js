@@ -38,20 +38,20 @@ Lexicon.prototype.pickWord = function (language, length) {
 
 Lexicon.prototype.translate = function (language, text) {
 	if (!this.canTranslateTo(language)) {
-		throw new Error(`Can't find language "${language}"`);
+		throw new Error(`Can’t find language "${language}"`);
 	}
 
 	const lang = language.toLowerCase();
-	let res = '';
+	let result = '';
 	let word = '';
 
 	for (const c of text) {
 		if (/[^A-Za-z]/.test(c)) {
 			if (word.length > 0) {
-				res += copyCase(this.pickWord(lang, word.length), word);
+				result += copyCase(this.pickWord(lang, word.length), word);
 			}
 
-			res += c;
+			result += c;
 			word = '';
 		} else {
 			word += c;
@@ -59,10 +59,10 @@ Lexicon.prototype.translate = function (language, text) {
 	}
 
 	if (word.length > 0) {
-		res += copyCase(this.pickWord(lang, word.length), word);
+		result += copyCase(this.pickWord(lang, word.length), word);
 	}
 
-	return res;
+	return result;
 };
 
 module.exports = Lexicon;

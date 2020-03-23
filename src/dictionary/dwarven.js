@@ -9,9 +9,9 @@ module.exports = {
 	8: ['azregahn', 'gefrunon', 'golganar', 'khaz-dum', 'khazrega', 'misfaran', 'mogodune', 'moth-tur', 'ok-hoga', 'thulmane'],
 	9: ['ahz-dagum', 'angor-dum', 'arad-khaz', 'gor-skalf', 'grum-mana', 'khaz-rand', 'kost-guma', 'mund-helm'],
 	10: ['angor-magi', 'gar-mogoth', 'hoga-modan', 'midd-havas', 'nagga-roth', 'thros-gare'],
-	11: ['azgol-haman', 'dun-haldren', 'ge\'ar-anvil', 'guma-syddan'],
+	11: ['azgol-haman', 'dun-haldren', 'ge’ar-anvil', 'guma-syddan'],
 	12: ['robush-mogan', 'thros-am-kha'],
-	13: ['gimil-thumane', 'gol\'gethrunon', 'haldji-drugan'],
+	13: ['gimil-thumane', 'gol’gethrunon', 'haldji-drugan'],
 	14: ['gosh-algaz-dun', 'scyld-modor-ok'],
 	17: ['haldren-lo-modoss']
 };

@@ -7,7 +7,7 @@ const lang = args.shift();
 const input = args.join(' ');
 
 if (!lang || !input) {
-	console.info('Usage:   wow-lexicon language text ...');
+	console.info('Usage:   wow-lexicon language text …');
 	console.info('Example: wow-lexicon dwarven This is some example!');
 	process.exit();
 }
