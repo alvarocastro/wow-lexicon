@@ -33,7 +33,9 @@ test('Should have translation shortcuts to the loaded languages', t => {
 test('Should throw an error when traslating to a non-existent language', t => {
 	t.throws(() => {
 		lexicon.translate('somenonexistentlang', 'Hi');
-	}, Error);
+	}, {
+		instanceOf: Error
+	});
 });
 
 test('Should translate', t => {

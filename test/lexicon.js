@@ -12,7 +12,9 @@ const dict = {
 test('Should throw error if no dictionary provided', t => {
 	t.throws(() => {
 		new Lexicon(); // eslint-disable-line no-new
-	}, Error);
+	}, {
+		instanceOf: Error
+	});
 });
 
 test('Should be able to translate the loaded languages', t => {
