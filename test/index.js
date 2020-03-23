@@ -1,5 +1,5 @@
 const test = require('ava');
-const lexicon = require('../.');
+const lexicon = require('..');
 
 const langs = [
 	'darnassian',

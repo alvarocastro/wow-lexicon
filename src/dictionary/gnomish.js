@@ -9,5 +9,5 @@ module.exports = {
 	8: ['aldanoth', 'azregorn', 'bolthelm', 'botlikin', 'dimligar', 'gefrunon', 'godunmug', 'grumgizr', 'kahsgear', 'kahzregi', 'landivar', 'methrine', 'mikthros', 'misfaran', 'nandiger', 'thulmane'],
 	9: ['angordame', 'elodergim', 'elodmodor', 'naggirath', 'nockhavis'],
 	10: ['ahzodaugum', 'alegaskron', 'algosgoten', 'danavandar', 'dyrstagist', 'falhadrink', 'frendgalva', 'mosgodunan', 'mundgizber', 'naginbumat', 'sihnvulden', 'throsigear', 'vustrangin'],
-	11: ['ferdosmodan', 'gizbarlodun', 'haldjinagin', 'helmokheram', 'kahzhaldren', 'lockrevoshi', 'robuswaldir', 'skalfgizgar', 'thrunon\'gol', 'thumanerand']
+	11: ['ferdosmodan', 'gizbarlodun', 'haldjinagin', 'helmokheram', 'kahzhaldren', 'lockrevoshi', 'robuswaldir', 'skalfgizgar', 'thrunon’gol', 'thumanerand']
 };
