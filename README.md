@@ -1,8 +1,9 @@
 # wow-lexicon
 [![NPM](https://img.shields.io/npm/v/wow-lexicon.svg)](https://www.npmjs.com/package/wow-lexicon)
 [![Build Status](https://travis-ci.com/alvarocastro/wow-lexicon.svg?branch=master)](https://travis-ci.com/alvarocastro/wow-lexicon)
-[![codebeat badge](https://codebeat.co/badges/c8c9647b-2b24-426d-8889-87e38c875aa3)](https://codebeat.co/projects/github-com-alvarocastro-wow-lexicon-master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/40278a71e3df74a99d9d/maintainability)](https://codeclimate.com/github/alvarocastro/wow-lexicon/maintainability)
 [![Coverage Status](https://coveralls.io/repos/github/alvarocastro/wow-lexicon/badge.svg?branch=master)](https://coveralls.io/github/alvarocastro/wow-lexicon?branch=master)
+[![Bundle Size](https://badgen.net/bundlephobia/min/wow-lexicon)](https://bundlephobia.com/result?p=wow-lexicon)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
 World of Warcraft translator that tries to emulate the same translation process used in the game client.
@@ -12,6 +13,8 @@ Translation is unidirectional, you can translate from "common" (human language l
 - [Install](#install)
 - [Usage](#usage)
 - [Supported languages](#supported-languages)
+- [Contributing](#contributing)
+- [Support](#support)
 
 ## Install
 
@@ -74,3 +77,11 @@ Language definitions are taken from the wiki and other sources of the game.
 - [Taurahe](https://wowwiki.fandom.com/wiki/Taur-ahe) (Tauren)
 - [Thalassian](https://wowwiki.fandom.com/wiki/Thalassian) (Blood elves and High elves)
 - [Zandali](https://wowwiki.fandom.com/wiki/Zandali) (Trolls)
+
+## Contributing
+
+Contributions are always welcome! Please run `npm test` before hand to ensure everything is ok.
+
+## Support
+
+If you use this package please consider starring it :)
