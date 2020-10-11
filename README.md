@@ -1,10 +1,12 @@
 # wow-lexicon
-[![NPM](https://img.shields.io/npm/v/wow-lexicon.svg)](https://www.npmjs.com/package/wow-lexicon)
-[![Build Status](https://travis-ci.com/alvarocastro/wow-lexicon.svg?branch=master)](https://travis-ci.com/alvarocastro/wow-lexicon)
-[![Maintainability](https://api.codeclimate.com/v1/badges/40278a71e3df74a99d9d/maintainability)](https://codeclimate.com/github/alvarocastro/wow-lexicon/maintainability)
-[![Coverage Status](https://coveralls.io/repos/github/alvarocastro/wow-lexicon/badge.svg?branch=master)](https://coveralls.io/github/alvarocastro/wow-lexicon?branch=master)
-[![Bundle Size](https://badgen.net/bundlephobia/min/wow-lexicon)](https://bundlephobia.com/result?p=wow-lexicon)
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+
+[![NPM](https://img.shields.io/npm/v/wow-lexicon)](https://www.npmjs.com/package/wow-lexicon)
+[![Build status](https://img.shields.io/github/workflow/status/alvarocastro/wow-lexicon/build)](https://github.com/alvarocastro/wow-lexicon/actions?query=workflow%3Abuild)
+[![Maintainability status](https://img.shields.io/codeclimate/maintainability/alvarocastro/wow-lexicon)](https://codeclimate.com/github/alvarocastro/wow-lexicon/maintainability)
+[![Coverage status](https://img.shields.io/coveralls/github/alvarocastro/wow-lexicon)](https://coveralls.io/github/alvarocastro/wow-lexicon?branch=master)
+[![Bundle size](https://img.shields.io/bundlephobia/min/wow-lexicon)](https://bundlephobia.com/result?p=wow-lexicon)
+[![Code style: XO](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+[![Release: Semantic](https://img.shields.io/badge/%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 World of Warcraft translator that tries to emulate the same translation process used in the game client.
 
@@ -80,7 +82,7 @@ Language definitions are taken from the wiki and other sources of the game.
 
 ## Contributing
 
-Contributions are always welcome! Please run `npm test` before hand to ensure everything is ok.
+Contributions are always welcome! Please run `npm test` beforehand to ensure everything is ok.
 
 ## Support
 
