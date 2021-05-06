@@ -2,6 +2,7 @@ const test = require('ava');
 const lexicon = require('..');
 
 const langs = [
+	'common',
 	'darnassian',
 	'draconic',
 	'draenei',

@@ -1,4 +1,5 @@
 module.exports = {
+	common: require('./common.js'),
 	draenei: require('./draenei.js'),
 	dwarven: require('./dwarven.js'),
 	gnomish: require('./gnomish.js'),

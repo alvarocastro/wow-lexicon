@@ -67,6 +67,7 @@ The text to translate.
 
 Language definitions are taken from the wiki and other sources of the game.
 
+- [Common](https://wowwiki.fandom.com/wiki/Common_(language)) (Humans)
 - [Darnassian](https://wowwiki.fandom.com/wiki/Darnassian) (Night elves)
 - [Draconic](https://wowwiki.fandom.com/wiki/Draconic) (Dragons)
 - [Draenei](https://wowwiki.fandom.com/wiki/Draenei_(language)) (Draenei)
