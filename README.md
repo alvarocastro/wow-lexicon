@@ -67,18 +67,19 @@ The text to translate.
 
 Language definitions are taken from the wiki and other sources of the game.
 
-- [Darnassian](https://wowwiki.fandom.com/wiki/Darnassian) (Night elves)
-- [Draconic](https://wowwiki.fandom.com/wiki/Draconic) (Dragons)
-- [Draenei](https://wowwiki.fandom.com/wiki/Draenei_(language)) (Draenei)
-- [Dwarven](https://wowwiki.fandom.com/wiki/Dwarven) (Dwarves)
-- [Eredun](https://wowwiki.fandom.com/wiki/Eredun) (Demons)
-- [Gnomish](https://wowwiki.fandom.com/wiki/Gnomish) (Gnomes)
-- [Gutterspeak](https://wowwiki.fandom.com/wiki/Gutterspeak) (Forsaken)
-- [Kalimag](https://wowwiki.fandom.com/wiki/Kalimag) (Elementals)
-- [Orcish](https://wowwiki.fandom.com/wiki/Orcish) (Orcs)
-- [Taurahe](https://wowwiki.fandom.com/wiki/Taur-ahe) (Tauren)
-- [Thalassian](https://wowwiki.fandom.com/wiki/Thalassian) (Blood elves and High elves)
-- [Zandali](https://wowwiki.fandom.com/wiki/Zandali) (Trolls)
+- [Common](https://wowpedia.fandom.com/wiki/Common_(language)) (Humans)
+- [Darnassian](https://wowpedia.fandom.com/wiki/Darnassian) (Night elves)
+- [Draconic](https://wowpedia.fandom.com/wiki/Draconic) (Dragons)
+- [Draenei](https://wowpedia.fandom.com/wiki/Draenei_(language)) (Draenei)
+- [Dwarven](https://wowpedia.fandom.com/wiki/Dwarven) (Dwarves)
+- [Eredun](https://wowpedia.fandom.com/wiki/Eredun) (Demons)
+- [Gnomish](https://wowpedia.fandom.com/wiki/Gnomish) (Gnomes)
+- [Gutterspeak](https://wowpedia.fandom.com/wiki/Gutterspeak) (Forsaken)
+- [Kalimag](https://wowpedia.fandom.com/wiki/Kalimag) (Elementals)
+- [Orcish](https://wowpedia.fandom.com/wiki/Orcish) (Orcs)
+- [Taurahe](https://wowpedia.fandom.com/wiki/Taur-ahe) (Tauren)
+- [Thalassian](https://wowpedia.fandom.com/wiki/Thalassian) (Blood elves and High elves)
+- [Zandali](https://wowpedia.fandom.com/wiki/Zandali) (Trolls)
 
 ## Contributing
 
