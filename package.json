@@ -34,7 +34,7 @@
     "coveralls": "3.1.0",
     "nyc": "15.1.0",
     "semantic-release": "^17.1.2",
-    "xo": "0.39.1"
+    "xo": "0.44.0"
   },
   "dependencies": {
     "copy-case": "^1.0.0"
